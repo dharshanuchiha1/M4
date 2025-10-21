@@ -77,7 +77,7 @@ int main() {
 
 ```
 ## OUTPUT
-         ![alt text](<Ex 17.png>)  
+![alt text](<Ex 17.png>)  
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
